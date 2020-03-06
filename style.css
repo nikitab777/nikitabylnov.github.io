@@ -1,0 +1,167 @@
+#Emblem {
+	position: block;
+}
+
+#EmblemHead {
+	position: block;
+}
+
+#header {
+	position: relative;
+	margin-bottom: 7%;
+}
+
+#contacts_left {
+	left: 12%;
+}
+
+#contacts_right {
+	right: 12%;
+}
+
+.WorkTime {
+	text-decoration: underline;
+}
+
+#Body {
+	position: relative;
+}
+
+#Base {
+	position: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 0px solid white;
+	border-radius: 55px;
+	width: 53%;
+	background-color: #f2f2f2;
+}
+#Base2 {
+	margin-top: 2%;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+
+#LeftMenu {
+	color: white;
+	position: absolute;
+	top: 0px;
+	border: 0px solid white;
+	border-radius: 20px;
+	width: 23%;
+	background-color: #48b9e1;
+	font-size: 28px;
+}
+
+#StockBox {
+	position: absolute;
+	width: 23%;
+	min-height: 17%;
+	top: 0px;
+	right: 0px;
+}
+
+.LeafArrow {
+	color: white;
+	font-size: 50px;
+	font-weight: 900;
+	border: 0px solid white;
+	border-radius: 100%;
+	background-color: #b6b5b2;
+	
+}
+
+#Left_LeafArrow {
+	position: absolute;
+	top: 40%;
+}
+
+#Right_LeafArrow {
+	position: absolute;
+	right: 1%;
+	top: 40%;
+}
+
+.contacts {
+	font-size: 36px;
+	position: absolute;
+	top: 40px;
+	font-weight: 900;
+}
+
+h1 {
+	color: #f3101b;
+	font-weight: 900;
+	/*text-shadow: 8px 8px 6px grey;*/
+}
+
+#list_h {
+	text-aligh: left;
+	font-size: 1em;
+}
+
+#inform_h {
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+}
+
+.first_shop {
+	color: #c33eb9;
+}
+
+.second_shop {
+	color: #35af1d;
+}
+
+.discount {
+	color: #ea1919;
+	font-weight: 900;
+	font-size: 26px;
+}
+
+.EmblemScript {
+	position: absolute;
+}
+
+#EmblemList {
+	font-size: 25px;
+	color: #1aa7ef;
+}
+
+.CarBrand {
+	font-size: 35px;
+	color: #590221;
+	font-weight: 900;
+}
+
+.CarModel {
+	font-size: 26px;
+	font-weight: 0;
+}
+
+.CarModel:hover {
+	font-size: 29px;
+	font-weight: 600;
+}
+
+.StockImage {
+	margin-left: 20%;
+	margin-top: 10%;
+}
+
+/*#FirstScriptEmblem {
+	position: relative;
+}
+
+
+
+
+/*@media (max-width: 1000px) {
+
+	.contacts {color: red;}
+
+
+}*/
